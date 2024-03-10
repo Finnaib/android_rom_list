@@ -63,6 +63,7 @@
 - **Halogen OS** | [Github](https://github.com/halogenOS) - [Web](https://halogenos.org/)
 - **Havoc OS** | [Github](https://github.com/Havoc-OS) - [Web](https://havoc-os.com/)
 - **HentaiOS** | [Github](https://github.com/hentaiOS) - [Web](https://downloads.hentaios.com/)
+- **Horizondroid** | [Github](https://github.com/HorizonDroidLab)
 - **HyconOS** | [Github](https://github.com/HyconOS)
 - **Ion OS** | [Github](https://github.com/i-o-n) 
 - **IronOS Project** | [Github](https://github.com/IronOSProject)
